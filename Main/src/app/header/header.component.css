@@ -1,0 +1,40 @@
+#login-nav {
+  position: fixed;
+  width: 100%;
+  z-index: 1;
+  background-color: #FFF !important;
+  padding: 0px;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+#younglings {
+  color: #333333;
+  font-family: "Open Sans";
+  font-size: 42px;
+  font-weight: bold;
+  line-height: 0;
+  padding-left: 29px;
+  padding-right: 29px;
+  margin: 0px;
+}
+
+#nav-btn:hover {
+  color: #1ABC9C;
+}
+
+#line {
+  height: 100px;
+  width: 1px;
+  opacity: 0.1;
+  background-color: #000000;
+}
+
+form i {
+  font-size: 15px;
+  color: #444444;
+  text-decoration: none;
+}
+
+form a {
+  margin: 38px 20px 38px 31px;
+}

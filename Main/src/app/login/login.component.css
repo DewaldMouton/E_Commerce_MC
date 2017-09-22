@@ -1,0 +1,82 @@
+* {
+  font-family: "Raleway";
+}
+
+* i {
+  font: normal normal normal 14px/1 FontAwesome;
+}
+
+.content {
+  padding-top: 56px;
+  text-align: center;
+  margin-bottom: 76px;
+}
+
+#login {
+  background: #333333;
+  color: #FFF;
+  font-size: 18px;
+  font-weight: bold;
+  padding: 12px 17px;
+  float: left;
+}
+
+input {
+  width: 100%;
+  border: 2px solid #DDDDDD;
+  height: 49px;
+}
+
+h3,
+h2 {
+  float: left;
+}
+
+h2,
+h2 i {
+  font-size: 23px;
+  font-weight: 600;
+}
+
+h3 {
+  font-size: 13px;
+  font-weight: bold;
+}
+
+#username {
+  margin-top: 31px;
+}
+
+#password {
+  margin-top: 29px;
+}
+
+#buttons {
+  margin-top: 27px;
+}
+
+#line {
+  margin: 40px 0px;
+  height: 1px;
+  width: 100%;
+  background-color: #EEEEEE;
+}
+
+#sign-up a i {
+  font-size: 23px;
+}
+
+#sign-up a {
+  color: #444444;
+  font-family: "Raleway";
+  font-size: 23px;
+  font-weight: 600;
+}
+
+#forgot {
+  text-align: right !important;
+  padding-top: 10px;
+  color: #444444;
+  font-family: Lato;
+  font-size: 14px;
+}

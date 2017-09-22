@@ -1,0 +1,158 @@
+.footer {
+  padding: 90px 10px 102px 10px;
+  background: #333333;
+  color: #CCCCCC;
+}
+
+#contact {
+  color: #CCCCCC;
+  font-family: "Lato";
+  font-size: 14px;
+  font-weight: bold;
+}
+
+#footer-logo {
+  margin-bottom: 30px;
+}
+
+#blogroll{
+  padding-left: 50px;
+}
+
+#blogroll h4{
+  padding-left: 20px;
+}
+
+/*Recent*/
+
+#recent {
+  font-family: "Raleway";
+  padding-right: 30px;
+}
+
+#recent h4 {
+  font-size: 15px;
+  font-weight: 600;
+}
+
+#recent h6 {
+  font-family: "Raleway";
+  font-size: 14px;
+  font-weight: 600;
+}
+
+#recent p {
+  font-family: "Crete";
+  font-size: 13px;
+  font-style: italic;
+}
+
+#seperate {
+  border-bottom: 1px dashed #CCCCCC;
+  margin-bottom: 8px;
+}
+
+
+/*Connect*/
+
+#connect {
+  padding: 0px 10px;
+}
+
+#stats {
+  padding: 0px;
+  font-family: "Raleway";
+  text-align: center;
+}
+
+#downloads,
+#clients {
+  font-size: 28px;
+  font-weight: bold;
+}
+
+#downloads-t,
+#clients-t {
+  font-size: 13px;
+  font-weight: 300;
+}
+
+#newsletter {
+  font-size: 14px;
+  margin-top: 51px;
+  padding: 0px;
+}
+
+#newsletter a {
+  font-weight: bold;
+}
+
+#email-pane .form-control {
+  display: inline;
+  margin: 0px !important;
+}
+
+#subscribe {
+  background: #5CB85C;
+  color: #FFF;
+  padding: 11px 13px;
+  text-decoration: none;
+  font-family: "Lato";
+  font-weight: bold;
+  font-size: 14px;
+  border-radius: 0px 4px 4px 0px;
+}
+
+#email {
+  opacity: 0.7;
+  color: #777777;
+  font-family: "Lato";
+  font-size: 14px;
+  background: rgba(1, 2, 0, 0.26);
+  border: none;
+  padding: 11px 25px 11px 14px;
+  max-height: 41.6px;
+}
+
+#envelope {
+  border-radius: 4px 0px 0px 4px;
+  text-align: center;
+  background: #000000;
+  padding: 11px;
+  font-size: 14px;
+  height: 41.6px;
+  max-width: 41.6px;
+  min-width: 41.6px;
+  color: #777777;
+}
+
+.link h6 {
+  font-family: "Lato";
+  font-size: 11px;
+  font-weight: bold;
+  color: #EEEEEE;
+  line-height: 12px;
+  padding-left: 10px;
+  padding-top: 5px;
+}
+
+#link-pane {
+  margin-top: 44px;
+}
+
+#rss,
+#facebook {
+  font-size: 17px;
+  border-radius: 4px;
+  color: #FFF;
+}
+
+#rss {
+  background: #EE802F;
+  padding: 11px 13px;
+}
+
+#facebook {
+  background: #3B5998;
+  padding: 11px 15px;
+}

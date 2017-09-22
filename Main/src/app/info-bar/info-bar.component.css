@@ -1,0 +1,21 @@
+#copyrights {
+  width: 100%;
+  background: #000000;
+  padding: 45px 0px;
+  margin: 0px;
+}
+
+#contact {
+  text-align: right;
+}
+
+#contact a {
+  margin: 12px 8px;
+  color: #FFFFFF;
+}
+
+p {
+  color: #FFFFFF;
+  font-family: Lato;
+  font-size: 14px;
+}
